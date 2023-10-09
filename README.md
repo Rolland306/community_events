@@ -4,7 +4,7 @@ Submitted by: **Rolland Muzeya**
 
 About this web app: **App description here**
 
-Time spent: **20** hours
+Time spent: **30** hours
 
 ## Required Features
 
